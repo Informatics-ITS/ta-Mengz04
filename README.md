@@ -1,10 +1,10 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: [Nama Lengkap]  
-**NRP**: [Nomor Registrasi Pokok]  
-**Judul TA**: [Judul Tugas Akhir]  
-**Dosen Pembimbing**: [Nama Dosen]  
-**Dosen Ko-pembimbing**: [Nama Dosen]
+**Nama Mahasiswa**: Muhammad Rafi Insan Fillah  
+**NRP**: 5025211169 
+**Judul TA**: Pengembangan Sistem Neuronavigation Berbasis AR: Registrasi Fitur Wajah dan Rekonstruksi Objek Medis Volumetrik
+**Dosen Pembimbing**: Hadziq Fabroyir, S.Kom., Ph.D.  
+**Dosen Ko-pembimbing**: Prof. Drs. Ec. Ir. Riyanarto Sarno, M.Sc., Ph.D.
 
 ---
 
@@ -21,32 +21,20 @@ Embed video demo di bawah ini (ganti `VIDEO_ID` dengan ID video YouTube Anda):
 ## 🛠 Panduan Instalasi & Menjalankan Software  
 
 ### Prasyarat  
-- Daftar dependensi (contoh):
-  - Python 3.10+
-  - Node.js v18+
-  - MySQL 8.0
-  - [Lainnya...]
+- Daftar dependensi:
+  - Unity v2022.3.xx
+  - Meta XR All-in-One SDK v71.0.0
+  - [Unity Volume Rendering by Mlavik v2024.4](https://github.com/mlavik1/UnityVolumeRendering/releases/tag/2024.4)
 
 ### Langkah-langkah  
-1. **Clone Repository**  
+1. **Clone repository**  
    ```bash
-   git clone https://github.com/Informatics-ITS/TA.git
+   git clone https://github.com/Informatics-ITS/ta-Mengz04
    ```
-2. **Instalasi Dependensi**
-   ```bash
-   cd [folder-proyek]
-   pip install -r requirements.txt  # Contoh untuk Python
-   npm install  # Contoh untuk Node.js
-   ```
-3. **Konfigurasi**
-- Salin/rename file .env.example menjadi .env
-- Isi variabel lingkungan sesuai kebutuhan (database, API key, dll.)
-4. **Jalankan Aplikasi**
-   ```bash
-   python main.py  # Contoh untuk Python
-   npm start      # Contoh untuk Node.js
-   ```
-5. Buka browser dan kunjungi: `http://localhost:3000` (sesuaikan dengan port proyek Anda)
+2. **Unzip scenes LFS**
+   Unzip file scene yang berlokasi di `./Assets/Scenes/AR Neuronavigation.rar` dan `./Assets/Scenes/Model Marking.rar`.
+
+4. **Buka Unity project dengan version yang sesuai**
 
 ---
 
@@ -71,5 +59,5 @@ Pastikan proyek memenuhi kriteria berikut sebelum submit:
 ## ⁉️ Pertanyaan?
 
 Hubungi:
-- Penulis: [email@mahasiswa]
-- Pembimbing Utama: [email@pembimbing]
+- Penulis: m.rafiinsan@gmail.com
+- Pembimbing Utama: hadziq@its.ac.id
