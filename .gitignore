@@ -8,6 +8,7 @@ Builds/
 Build/
 export/
 Importing/
+Logs/
 Assets/Oculus/Avatar2_SampleAssets/
 Assets/EasyVolumeRendering/Assets/3rdparty/SimpleITK/SimpleITKCSharpNative.dll
 /*.csproj
