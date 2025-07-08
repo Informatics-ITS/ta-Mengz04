@@ -1,0 +1,15 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild*/
+BuildPC/
+BuildUWP/
+Builds/
+Build/
+export/
+Assets/Oculus/Avatar2_SampleAssets/
+Assets/EasyVolumeRendering/Assets/3rdparty/SimpleITK/SimpleITKCSharpNative.dll
+/*.csproj
+/*.sln
+Assets/Scenes/AR Neuronavigation.unity
+Assets/Scenes/Model Marking.unity
