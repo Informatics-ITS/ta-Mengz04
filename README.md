@@ -28,8 +28,8 @@
    ```bash
    git clone https://github.com/Informatics-ITS/ta-Mengz04
    ```
-2. **Unzip scenes LFS**
-   Unzip file scene yang berlokasi di [`./Assets/Scenes/AR Neuronavigation.rar`](https://github.com/Informatics-ITS/ta-Mengz04/blob/main/Assets/Scenes/AR%20Neuronavigation.rar) dan [`./Assets/Scenes/Model Marking.rar`](https://github.com/Informatics-ITS/ta-Mengz04/blob/main/Assets/Scenes/Model%20Marking.rar).
+2. **Unzip scenes LFS**  
+   Unzip file scene yang terdampak GitHub LFS, berlokasi di [`./Assets/Scenes/AR Neuronavigation.rar`](https://github.com/Informatics-ITS/ta-Mengz04/blob/main/Assets/Scenes/AR%20Neuronavigation.rar) dan [`./Assets/Scenes/Model Marking.rar`](https://github.com/Informatics-ITS/ta-Mengz04/blob/main/Assets/Scenes/Model%20Marking.rar).
 
 4. **Buka Unity project dengan version yang sesuai**
 
