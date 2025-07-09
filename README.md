@@ -59,5 +59,5 @@ Pastikan proyek memenuhi kriteria berikut sebelum submit:
 ## ⁉️ Pertanyaan?
 
 Hubungi:
-- Penulis: m.rafiinsan@gmail.com
-- Pembimbing Utama: hadziq@its.ac.id
+- Penulis: m.rafiinsan[at]gmail.com
+- Pembimbing Utama: hadziq[at]its.ac.id
