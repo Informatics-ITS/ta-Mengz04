@@ -10,7 +10,7 @@
 
 ## 📺 Demo Aplikasi  
 
-[![Demo Aplikasi](https://github.com/Informatics-ITS/ta-Mengz04/blob/main/Assets/Media/Demo-TA.png)](https://www.youtube.com/watch?v=4xn7lV5KkyI)  
+[![Demo Aplikasi](https://github.com/Informatics-ITS/ta-Mengz04/blob/main/Assets/Media/Demo-TA.png)](https://www.youtube.com/watch?v=0_HdkNLAZjE)  
 *Klik gambar di atas untuk menonton demo*
 
 ---
